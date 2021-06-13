@@ -1,0 +1,9 @@
+
+/* 
+ * google drive data downloader with gogle account Api integration
+ * https://developers.google.com/drive/api/v3/reference?apix=true
+ * https://developers.google.com/drive/api/v3/manage-downloads#node.js
+ * https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0
+ * use range i.e., partial download process like torrent, 
+ * check downloaded data range and continue from there
+ */

@@ -5,3 +5,6 @@ dist
 
 # IDEs
 .vscode
+
+# Secret Keys
+.env
